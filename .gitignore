@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+dist/
+.agents/
+.claude/
+skills-lock.json
+preferences.json
+preferences.json.lock
+*.tmp
